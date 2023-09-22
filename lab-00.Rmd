@@ -54,12 +54,12 @@ p1
 Change the text of the plot title and axis labels.
 
 ```{r labelled-bar-plot}
-p1 + labs(x = "Insert text here", 
-          y = "Insert text here",
-          title = "Insert text here")
+p1 + labs(x = "Name of person", 
+          y = "Number",
+          title = "Favourite Number Chart")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+*Plots the x and y axis and title of the chart*
 
 ### Exercise 20
 
